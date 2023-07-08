@@ -31,3 +31,6 @@ Las tecnologías usadas son
  - Express
  - Dotenv
  - Mocha y Chai
+
+## Proximos pasos
+Posterior a este desarrollo planeo utilizar handlebars para generar las vistas de esta aplicación, además, agregar una base de datos postgresql
